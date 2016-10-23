@@ -1,10 +1,10 @@
-section {
+html {
   background-color: #fff;
+  font-family: sans-serif;
 }
 
 h2, p, span {
-  font-family: sans-serif;
-  color: black;
+  color: #000;
 }
 
 a {
